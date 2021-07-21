@@ -1,5 +1,6 @@
 .
 ├── img
+│   └── project_tree.png
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
